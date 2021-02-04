@@ -1,5 +1,5 @@
 # SR-SAN
-Implementation for the paper entitled "Session-based Recommendation with Self-Attention Networks"
+Implementation for the paper entitled "[Session-based Recommendation with Self-Attention Networks](https://arxiv.org/abs/2102.01922)"
 
 You can download the datasets which used in our paper from the following links. Then put them in the folder `datasets/`:
 
