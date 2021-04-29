@@ -5,7 +5,7 @@ You can download the datasets which used in our paper from the following links. 
 
 - YOOCHOOSE: <http://2015.recsyschallenge.com/challenge.html>
 
-- DIGINETICA: <http://cikm2016.cs.iupui.edu/cikm-cup>
+- DIGINETICA: <http://cikm2016.cs.iupui.edu/cikm-cup> or <https://competitions.codalab.org/competitions/11161>
 
 After you download the YOOCHOOSE dataset, add headline with `session_id,timestamp,item_id,category` in the yoochoose-clicks.dat. 
 
